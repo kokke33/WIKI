@@ -15,7 +15,10 @@ WIKIとは、不特定多数のユーザが自由に書き込みを行い、誤�
 ※「tiddler」と呼ばれる「小記事」が無数にリンクし、１つの情報体系(WIKI)を形成します。<br>
 
 ## サンドボックス
-https://main-diagram-20.tiddlyhost.com/#基本的な使い方:MainMenu%20WIKI更新するには%20基本的な使い方
+tiddlyspotというtiddlywiki共有サイトに私の作った「WIKI5.hta」と同じものを公開しています<br>
+
+　https://main-diagram-20.tiddlyhost.com/#基本的な使い方:MainMenu%20WIKI更新するには%20基本的な使い方
+
 
 <br>
 
@@ -24,7 +27,8 @@ https://main-diagram-20.tiddlyhost.com/#基本的な使い方:MainMenu%20WIKI更
 
 ## 排他制御できません
 排他制御実施したい場合はサーバ構築が必要です。とはいえ、簡単なやりかたもありますので本家のホームページを確認してみてください。
-https://tiddlywiki.com/
+
+　https://tiddlywiki.com/
 
 <br>
 
